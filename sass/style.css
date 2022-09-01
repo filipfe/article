@@ -54,7 +54,6 @@ section,
   color: #515151;
 }
 .header a.active {
-  transition: color 250ms ease-out;
   color: #0660E8;
   font-weight: bold;
 }
