@@ -54,7 +54,6 @@ section,
         text-decoration: none;
         color: #515151;
         &.active {
-            transition: color 250ms ease-out;
             color: $primary;
             font-weight: bold;
         }
